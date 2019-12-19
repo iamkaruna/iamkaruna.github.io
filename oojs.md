@@ -10,8 +10,6 @@ title: "oojs"
 
 the principles of oojs
 
->nicholas c. zakas
-
 ---
 
 ## primitive & reference types
